@@ -55,6 +55,8 @@ Describe what you have imagined
 In order to collect and analyze the information we used Google Forms and Google Sheets.
 
 ## Feedback analysis
-
+![](/JustOrgYou/week5/d1.jpg)
+![](/JustOrgYou/week5/d2.jpg)
 
 ## Roadmap refinement
+
