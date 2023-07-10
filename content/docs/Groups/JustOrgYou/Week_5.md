@@ -53,6 +53,9 @@ Describe what you have imagined
 ## Conducting a survey
 
 In order to collect and analyze the information we used Google Forms and Google Sheets.
+
+https://docs.google.com/forms/d/1b301NqyTK-jyv0uHo29VG8FnsMpX95kqWsga2yRFubQ/edit#responses 
+
 Here are some of the results on questions we've asked:
 
 ![](/JustOrgYou/week5/d1.png)
