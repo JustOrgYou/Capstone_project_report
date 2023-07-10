@@ -61,5 +61,9 @@ Here are some of the results on questions we've asked:
 
 ## Feedback analysis
 
+What we learned from survey:
+- Most respondents could not find a suitable app for their needs, so ours can close out of a need
+- Our distinctive feature (Tinder Swipes) - seemed convenient for many respondents, which also shows the potential need of our app for users.
+
 
 ## Roadmap refinement
