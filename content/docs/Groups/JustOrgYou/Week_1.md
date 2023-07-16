@@ -19,16 +19,16 @@ title: "Week #1"
 
 ### Intoduction
 
-Many people, especially related to business and educatuion, deal with significant amount of tasks, notes, reminders and also other people. Keeping everething in head is complicated task when number of actions overhelm person. So, time and task management systems were introduced. Nowadays one of the famoust ones is Getting Things Done (GTD further) by David Alen. 
+Many people, especially related to business and educatuion, deal with significant amount of tasks, notes, reminders and also other people. Keeping everething in head is complicated task when number of actions overhelm person. So, time and task management systems were introduced. Nowadays one of the famoust ones is "Getting Things Done" (GTD further) by David Allen.
 
-Now, let's define a couple of words. By **GTD** we mean superset of systems, so solving general problem solves any particular. And by **tasks**, **entry** we assume any action, note and other thing that come from _inside_ or _outside_ of your _brain_. 
+Now, let's define a couple of words. **GTD** refers to a superset of systems, so solving general problem solves any particular. And by **tasks**, **entry** we assume any action, note and other thing that come from _inside_ or _outside_ of your _brain_. 
 
 #### Abstract GTD system review
 
 Let's quickly review key points of abstract GTD system:
 
-- _collect_ all incomming tasks in inbox
-- process inbox, _sort_ entries to _N categories_ (originally N = 7)
+- _Collect_ all incoming tasks in inbox
+- Process inbox, _sort_ entries to _N categories_ (originally N = 7)
   - `TODO`
   - `Waiting`
   - `Someday`
@@ -49,18 +49,18 @@ Assumptions that we keep in mind:
 
 ### Pain points
 
-We've used GTD as our task management system for a while. With different software, different devices and different circumstances. Also, we participate in chats with people that uses GTD and some of us took cource from experienced time manager. So, we heart and fealt a lot about pain during system usage.
+We've used GTD as our task management system for a while. With different software, different devices and different circumstances. Also, we participate in chats with people that uses GTD and some of us took cource from experienced time manager. So, we heart and felt a lot about pain during system usage.
 
 The main **pain points**:
-- adding new task is time consuming, hard to do it on the go
+- Adding new task is time consuming, hard to do it on the go
 - UI is too distrupting, hard to quickly add thing
-- process of sorting is too long
-- process of sorting is too complicated
-- too complicated for newcommer to set up environment
-- no unified way to work on desktop and on mobile device
-- intenet is unreliable
-- inbox processing on mobile device is very painful (due to device specific)
-- no app that **keep in mind** GTD aspects
+- Process of sorting is too long
+- Process of sorting is too complicated
+- Too complicated for newcommer to set up environment
+- No unified way to work on desktop and on mobile device
+- Intenet is unreliable
+- Inbox processing on mobile device is very painful (due to device specific)
+- No app that **keep in mind** GTD aspects
 
 
 ## Solution - JustOrgYou
@@ -84,7 +84,7 @@ We plan to write `todo library` on **Rust** to get performant solution what not 
 
 `frontend` is going to be in several variations. _Mobile_ and _desktop_ apps on **Flutter**. Maybe _web_ too, we've tested, it is possible. And _cli_ client also on **Rust**.
 
-For `api server` we've chousen **Python**. Servers on it are simple to develop, easy to maintain and performant enough. 
+For `api server` we've chosen **Python**. Servers on it are simple to develop, easy to maintain and performant enough. 
 
 `AI models` are dependend from concrete case, but our code will be on **Python**. 
 
