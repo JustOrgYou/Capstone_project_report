@@ -60,7 +60,7 @@ During this phase of development, the team accomplished the following key milest
 In our Todo Library we have successfully implemented the main data structures
 that will function as the API for external interactions. As mentioned earlier,
 we take [Org Mode](https://orgmode.org/) as a basis. Despite the fact that Org
-Mode doesn't have any specification, we've invastigated all the related
+Mode doesn't have any specification, we've investigated all the related
 documentation and source of initial implementation for Emacs and one of the
 [Orgzly App](https://orgzly.com/). Additionally, we have conducted successful
 tests to validate the feasibility of executing Rust code from Flutter using Rust

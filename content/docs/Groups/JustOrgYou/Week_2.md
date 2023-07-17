@@ -103,7 +103,7 @@ server-side.
 Local:
 - **Todo Library** contains main business logic of our app. It is responsible
   for parsing collections of todo entries and performing actions with them.
-  Actions include queering, modifying, merging, performing any user-defined
+  Actions include quering, modifying, merging, performing any user-defined
   functions (i.e plugins written in rust for any automated data manipulation).
 - **Frontend clients** are responsible only for representation of the data,
   OS-specific actions and communication with the server everything else is
@@ -202,7 +202,7 @@ Here are main points and decisions of our design:
 
 - Seamless and Non-disruptive UI: Design a distraction-free interface for adding
   tasks without interrupting workflow.
-- Simplified and Efficient Sorting Process: Optimize task sorting with
+- Simplified and Efficient Sorting Process: Optimize task sorting using 
   drag-and-drop options.
 - Consistent Cross-Platform Experience: Ensure a consistent UX across desktop
   and mobile platforms.
